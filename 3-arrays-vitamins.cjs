@@ -21,6 +21,8 @@ const items = [{
     available: false,
 }];
 
+module.exports = items
+
 
 /*
 
